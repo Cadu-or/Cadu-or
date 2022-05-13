@@ -2,7 +2,8 @@
 
 <ul>
   <li list-style-type="circle"> 
-    🎲 I'm a data analyst intern at the STF.
+    🎲 I'm currently working at STF as intern Data Analyst.
+    📅 I use daily: Oracle Database, SAP BusinessObjects, QlikSense and Zabbix.
   </li>
 </ul>
 
@@ -34,6 +35,7 @@
 
 ##
   
+### 🤝🏼 Connect with me
 <div> 
   <a href="https://www.linkedin.com/in/cadu-or/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlos.e.o.ribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
