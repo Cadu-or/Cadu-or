@@ -3,6 +3,8 @@
 <ul>
   <li list-style-type="circle"> 
     🎲 I'm currently working at STF as intern Data Analyst.
+  </li>
+  <li list-style-type="circle"> 
     📅 I use daily: Oracle Database, SAP BusinessObjects, QlikSense and Zabbix.
   </li>
 </ul>
