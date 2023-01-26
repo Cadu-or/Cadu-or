@@ -19,8 +19,11 @@
 
 ### ⚠️ Portfólio em construção
 
-📎<a href="https://portfolio-cadu-or.vercel.app/" target="_blank">Link</a>
-
+<ul>
+  <li list-style-type="circle">
+    📎<a href="https://portfolio-cadu-or.vercel.app/" target="_blank">Link</a>
+  </li>
+</ul>
 ##
 
 <div>
