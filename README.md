@@ -1,13 +1,25 @@
-### Hi there 👋🏽
+### 👋🏽 Olá!
 
 <ul>
-  <li list-style-type="circle"> 
-    🎲 I'm currently working at STF as intern Data Analyst.
+  <li list-style-type="circle">
+    📚 Estudante da Universidade de Brasília, atualmente no oitavo semestre de Ciência da Computação.
   </li>
   <li list-style-type="circle"> 
-    📅 I use daily: Oracle Database, SAP BusinessObjects, QlikSense and Zabbix.
+    🎲 Estágiario do Supremo Tribunal Federal na área de Análise de Dados.
+  </li>
+  <li list-style-type="circle"> 
+    📅 Uso diariamente Oracle Database, SAP BusinessObjects, QlikSense e Zabbix..
+  </li>
+  <li list-style-type="circle">
+    🗒️ Atualmente estudando desenvolvimento web com React, Typescript e TailwindCSS.
   </li>
 </ul>
+
+##
+
+### ⚠️ Portfólio em construção
+
+📎<a href="https://portfolio-cadu-or.vercel.app/" target="_blank">Link</a>
 
 ##
 
@@ -37,7 +49,7 @@
 
 ##
   
-### 🤝🏽 Connect with me
+### 🤝🏽 Entre em contato
 <div> 
   <a href="https://www.linkedin.com/in/cadu-or/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlos.e.o.ribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
