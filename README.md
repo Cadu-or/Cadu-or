@@ -5,10 +5,10 @@
     📚 Estudante da Universidade de Brasília, atualmente no oitavo semestre de Ciência da Computação.
   </li>
   <li list-style-type="circle"> 
-    🎲 Estágiario do Supremo Tribunal Federal na área de Análise de Dados.
+    🎲 Trainee da SEA Tecnologia na área de Desenvolvimento Front-End.
   </li>
   <li list-style-type="circle"> 
-    📅 Uso diariamente Oracle Database, SAP BusinessObjects, QlikSense e Zabbix..
+    📅 Uso diariamente React, Javascript, Free Marker, SCSS e Liferay.
   </li>
   <li list-style-type="circle">
     🗒️ Atualmente estudando desenvolvimento web com React, Typescript e TailwindCSS.
