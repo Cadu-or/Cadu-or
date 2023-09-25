@@ -2,7 +2,7 @@
 
 <ul>
   <li list-style-type="circle">
-    📚 Estudante da Universidade de Brasília, atualmente no oitavo semestre de Ciência da Computação.
+    📚 Estudante da Universidade de Brasília, atualmente no décimo primerio semestre de Ciência da Computação.
   </li>
   <li list-style-type="circle"> 
     🎲 Trainee da SEA Tecnologia na área de Desenvolvimento Front-End.
