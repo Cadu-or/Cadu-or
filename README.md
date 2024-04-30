@@ -2,16 +2,10 @@
 
 <ul>
   <li list-style-type="circle">
-    📚 Estudante da Universidade de Brasília, atualmente no décimo primerio semestre de Ciência da Computação.
+    📚 Estudante de Ciência da Computação da Universidade de Brasília.
   </li>
   <li list-style-type="circle"> 
-    🎲 Trainee da SEA Tecnologia na área de Desenvolvimento Front-End.
-  </li>
-  <li list-style-type="circle"> 
-    📅 Uso diariamente React, Javascript, Free Marker, SCSS e Liferay.
-  </li>
-  <li list-style-type="circle">
-    🗒️ Atualmente estudando desenvolvimento web com React, Typescript e TailwindCSS.
+    🎲 Desenvolvedor Full-Stack na empresa Gomide Contabilidade.
   </li>
 </ul>
 
